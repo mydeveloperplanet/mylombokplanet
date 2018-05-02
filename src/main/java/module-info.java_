@@ -1,0 +1,4 @@
+// Java 9 Modules are not yet supported with Lombok
+module com.mydeveloperplanet.mylombokplanet {
+    requires static lombok;
+}
